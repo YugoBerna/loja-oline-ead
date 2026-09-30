@@ -1,4 +1,4 @@
-# loja-oline - campanha de ano novo
+# loja-oline - campanha de natal
 
 ## contato
 Duvidas: contato@gmail.com.br
