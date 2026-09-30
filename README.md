@@ -1,4 +1,4 @@
-# loja-oline - campanha de Black Friday
+# loja-oline - campanha de Natal
 
 ## contato
 Duvidas: contato@gmail.com.br
